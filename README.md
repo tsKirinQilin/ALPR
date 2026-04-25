@@ -137,7 +137,6 @@ android_app/app/build/outputs/apk/debug/app-debug.apk
 
 
 
-
 ## Future Improvements
 
 - YOLO-based license plate detection

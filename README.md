@@ -27,6 +27,28 @@ The Android app does not recognize license plates locally. It sends the image to
 
 
 
+## Technical Submission
+
+### Source Code
+
+The project source code is fully available in this repository and is organized into two main parts:
+
+- `backend/` – Python Flask server implementing image processing and OCR pipeline
+- `android_app/` – Android application for capturing and sending images
+
+The code is structured, documented, and can be reproduced by following the setup instructions.
+
+---
+
+### Requirements File
+
+All required Python libraries are listed in:
+
+```text
+backend/requirements.txt
+
+
+
 ## Project Structure
 
 ```text
